@@ -13,9 +13,10 @@ Description goes here
 
 Name | Type | Description | Default | Range 
 
-| Name           | Type         | Description  | Default      | Range        |
-| -----------    | ------------ | -----------  | ------------ | ------------ |
-| Example Option | Integer      | Does a Thing | 1            | 1 -> 30      |
+| Name          |   Type  | Description | Default Value |  Range  |
+|---------------|:-------:|-------------|:-------------:|:-------:|
+| ExampleInt    | Integer | Does stuff  |       1       | 1 -> 30 |
+| ExampleString |   Text  | Does things |   "Example"   |   N/A   |
 
 ## Install Instructions
 
