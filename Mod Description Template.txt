@@ -11,13 +11,12 @@ Description goes here
 
 ## Config Options
 
-Name | Type | Description | Default | Range 
-
 | Name          |   Type  | Description | Default Value |  Range  |
 |---------------|:-------:|-------------|:-------------:|:-------:|
 | ExampleInt    | Integer | Does stuff  |       1       | 1 -> 30 |
 | ExampleString |   Text  | Does things |   "Example"   |   N/A   |
 
+&nbsp;
 ## Install Instructions
 
 Note: If you are playing on Gamepass, your game version is likely behind the steam version. Please check the version compatibility chart below.
@@ -47,6 +46,7 @@ Note, this mod requires use of the BepInEx Update function. If you have not alre
 |:-------------:|:--------------:|
 |     v1.x.x    |     v0.1.0f    |
 
+&nbsp;
 ## Disclaimer
 
 Note: NEW Games must be loaded, saved, and reloaded for mods to take effect. Existing saves will auto-apply mods. 
