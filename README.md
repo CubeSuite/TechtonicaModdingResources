@@ -18,6 +18,7 @@ A collection of resources, guides and useful links for making Techtonica mods.
 If a library exists that adds the functionality you need, it's a good idea to utilise it. This can help with mod compatibility problems.
 - [WalrusLib](https://techtonica.starfluxgames.com/mod.php?id=220809)
 - ResourcesFromJSON - WIP
+- Equinox's Mod Utils - [Download](https://techtonica.starfluxgames.com/mod.php?id=221365) - [Documentation](https://github.com/CubeSuite/TTMod-EquinoxsModUtils)
   
 # How To Use ModUtils.cs
 
