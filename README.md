@@ -19,3 +19,9 @@ If a library exists that adds the functionality you need, it's a good idea to ut
 - [WalrusLib](https://techtonica.starfluxgames.com/mod.php?id=220809)
 - ResourcesFromJSON - WIP
 - Equinox's Mod Utils - [Download](https://techtonica.starfluxgames.com/mod.php?id=221365) - [Documentation](https://github.com/CubeSuite/TTMod-EquinoxsModUtils)
+
+## Striped and Publicised dlls
+There is a [nuget package](https://www.nuget.org/packages/techtonica-libs) that contains striped and publicised dll's for techtonica. You can add it to your mod to gain access to the games classes using:
+```
+dotnet add package techtonica-libs --version 0.2.1-c3
+```
